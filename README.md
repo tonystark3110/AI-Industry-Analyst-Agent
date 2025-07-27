@@ -54,7 +54,13 @@ Tags: #open-source #multimodal #agentic
 
 
 ## 📸 Demo
-![dashboard-screenshot] (https://github.com/tonystark3110/AI-Industry-Analyst-Agent/blob/main/x_post.png)
+
+<img width="1286" height="885" alt="x_post" src="https://github.com/user-attachments/assets/a215d4f4-7aa3-4f86-9e01-73c724c4900b" />
+
+
+<img width="1918" height="952" alt="streamlit_post" src="https://github.com/user-attachments/assets/2c47c85b-9873-472e-ac9d-1051603d9d2f" />
+
+
 
 ## 🚀 Run Locally
 
