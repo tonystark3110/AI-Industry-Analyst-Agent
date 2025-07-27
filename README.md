@@ -59,6 +59,8 @@ Tags: #open-source #multimodal #agentic
 <img width="1286" height="885" alt="streamlit_post" src="https://github.com/tonystark3110/AI-Industry-Analyst-Agent/blob/main/streamlit_post.png" />
 
 
+
+
 ## 🚀 Run Locally
 
 ```bash
