@@ -1,0 +1,4 @@
+OpenAI partners with Reddit to train models
+TechCrunch
+
+OpenAI has entered into a partnership with Reddit to use public posts for training future GPT models...

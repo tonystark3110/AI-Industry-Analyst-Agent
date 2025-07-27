@@ -1,0 +1,4 @@
+Meta open-sources new multimodal model
+Meta AI Blog
+
+Meta has released a new open-source multimodal AI model that supports both vision and text input...

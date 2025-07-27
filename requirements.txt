@@ -1,0 +1,8 @@
+langchain==0.1.16
+langchain-core==0.1.43
+langchain-community==0.0.33
+langchain-openai==0.0.8
+faiss-cpu
+sentence-transformers
+openai
+python-dotenv
