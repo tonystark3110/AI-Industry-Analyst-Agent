@@ -111,6 +111,6 @@ X (Twitter) API (optional)
 Manikandan Meenakshi Sundaram
 🚀 AI Research & Analytics | Data Science | LLMs | Autonomous Agents
 📍 Boston, MA
-🔗 LinkedIn | Portfolio (optional)
+🔗 LinkedIn (https://www.linkedin.com/in/manikandan3110/)
 
 
