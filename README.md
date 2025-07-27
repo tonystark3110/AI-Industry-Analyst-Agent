@@ -31,8 +31,6 @@ Access Token Secret
 Create a file secrets_twitter.py at the project root:
 
 python
-Copy
-Edit
 # secrets_twitter.py
 TWITTER_API_KEY = "your_key"
 TWITTER_API_SECRET = "your_secret"
@@ -44,9 +42,7 @@ Done! Now every daily job (via scheduler) will post your AI trend report automat
 
 Sample output:
 
-less
-Copy
-Edit
+
 🧠 AI Industry Trend Report
 
 Summary:
