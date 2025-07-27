@@ -38,6 +38,8 @@ TWITTER_API_KEY = "your_key"
 TWITTER_API_SECRET = "your_secret"
 TWITTER_ACCESS_TOKEN = "your_token"
 TWITTER_ACCESS_SECRET = "your_token_secret"
+
+
 Done! Now every daily job (via scheduler) will post your AI trend report automatically to your X feed.
 
 Sample output:
