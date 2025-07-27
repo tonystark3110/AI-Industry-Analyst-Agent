@@ -55,8 +55,7 @@ Tags: #open-source #multimodal #agentic
 
 <img width="1286" height="885" alt="x_post" src="https://github.com/user-attachments/assets/a215d4f4-7aa3-4f86-9e01-73c724c4900b" />
 
-
-<img width="1286" height="885" alt="streamlit_post" src="https://github.com/tonystark3110/AI-Industry-Analyst-Agent/blob/main/streamlit_post.png" />
+<img width="1286" height="885" alt="x_post" src="streamlit_post.png" />
 
 
 
