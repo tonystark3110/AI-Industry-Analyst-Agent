@@ -1,8 +1,8 @@
-# 🧠 AI Industry Analyst Agent
+#  AI Industry Analyst Agent
 
 A LangGraph-powered AI agent that tracks breaking trends in the AI industry, performs RAG-based summarization, classifies trend tags, and delivers daily reports via dashboard or X (Twitter).
 
-## 🔧 Features
+##  Features
 - 📰 Fetches latest AI news articles
 - 🔍 Embeds and stores in FAISS vector database
 - 🧠 RAG-based summarization with LLMs
@@ -43,7 +43,7 @@ Done! Now every daily job (via scheduler) will post your AI trend report automat
 Sample output:
 
 
-🧠 AI Industry Trend Report
+ AI Industry Trend Report
 
 Summary:
 Meta open-sources a new multimodal AI model with vision + text capabilities.
