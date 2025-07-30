@@ -1,6 +1,6 @@
 #  AI Industry Analyst Agent
 
-A LangGraph-powered AI agent that tracks breaking trends in the AI industry, performs RAG-based summarization, classifies trend tags, and delivers daily reports via dashboard or X (Twitter).
+A LangGraph powered AI agent that tracks breaking trends in the AI industry, performs RAG-based summarization, classifies trend tags, and delivers daily reports via dashboard or X (Twitter).
 
 ##  Features
 - 📰 Fetches latest AI news articles
