@@ -3,12 +3,12 @@
 A LangGraph powered AI agent that tracks breaking trends in the AI industry, performs RAG-based summarization, classifies trend tags, and delivers daily reports via dashboard or X (Twitter).
 
 ##  Features
-- 📰 Fetches latest AI news articles
-- 🔍 Embeds and stores in FAISS vector database
-- 🧠 RAG-based summarization with LLMs
-- 🏷️ Zero-shot classification of AI trends (e.g., open-source, multimodal)
-- 📊 Streamlit dashboard to view reports & manually trigger pipeline
-- 🕒 Daily scheduler for full autonomous updates
+- Fetches latest AI news articles
+- Embeds and stores in FAISS vector database
+- RAG-based summarization with LLMs
+- Zero-shot classification of AI trends (e.g., open-source, multimodal)
+- Streamlit dashboard to view reports & manually trigger pipeline
+- Daily scheduler for full autonomous updates
 
 
 
